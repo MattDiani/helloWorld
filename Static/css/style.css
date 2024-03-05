@@ -1,0 +1,25 @@
+/* Color red used to represent UMD's primary color*/
+p {
+    color:red;
+    font-size:0.9em;
+}
+
+h2 {
+    font-weight: bolder;
+    color: gray;
+}
+/* use the gold to represent the third UMD color in my last paragraph*/
+
+p#unique {
+    color:gold;
+}
+/* Use the color dark red to slightly offset the paragraph text*/
+.list {
+    color:darkred;
+}
+
+img.logo{
+    width:auto;
+    height: auto;
+}
+
