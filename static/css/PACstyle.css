@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+    color:black;
+}
+select[class=class-standing]{
+    width: 50%;
+    border: yellow;
+    border-style: dashed;
+}
+input[type=text]{
+    width: 50%;
+    border: yellow;
+    border-style: solid
+    border-width: 5px;
+}
+button{
+    color:yellow;
+}
+
+label{
+    color:yellow;
+}

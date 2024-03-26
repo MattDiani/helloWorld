@@ -18,6 +18,20 @@ p#unique {
     color:darkred;
 }
 
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width:500px
+}
+
 img.logo{
     width:auto;
     height: auto;
