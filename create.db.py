@@ -26,6 +26,7 @@ with app.app_context():
         {'username': 'mdiani', 'email': 'mdiani@terpmail.umd.edu', 'first_name': 'Matthew', 'last_name': 'Diani',
          'password': generate_password_hash('mdiani', method='pbkdf2:sha256'), 'role': 'STUDENT'}
     ]
+    # Added a user: Matthew Diani
 
     for each_user in users:
         print(f'{each_user["username"]} inserted into user')
